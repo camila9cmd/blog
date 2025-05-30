@@ -1,0 +1,44 @@
+body{
+      background-color:rgb(100, 84, 84);
+      font-size: medium;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: x-large;
+      color: rgb(83, 79, 79);
+      text-align: center;
+    }
+    nav{
+      background-color: rgb(196, 183, 167);
+      text-align: center;
+      margin:50px;
+      height: 70px;
+      width: 90%;
+      border-radius: 20px;
+    }
+    a{
+      text-decoration: none;
+      font-size:25px ;
+      color:rgb(12, 11, 11);
+      margin: 40px;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+  nav a:hover{
+    background-color:rgb(216, 209, 178) ;
+    transition: all 0.3s ease;
+    border-radius: 12px;
+    width:80px;
+  }
+    h1{
+      background-color: white;
+      text-align: center;
+      font-size: 2rem;
+      padding: 20px;
+      margin:0 ;
+      border-radius: 18px;
+      color: rgb(67, 60, 60);
+    }
+    img{
+      margin:10 px;
+      width:70%;
+    }
+  
+    
